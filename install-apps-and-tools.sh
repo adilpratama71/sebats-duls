@@ -10,6 +10,7 @@ brew install fzf
 brew install pygments
 brew install ack
 brew install watchman
+brew install postgresql
 
 brew cask install iterm2
 brew cask install vlc
